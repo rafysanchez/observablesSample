@@ -1,0 +1,9 @@
+body{ margin: 0;}
+.centered {
+  position: fixed;
+  top: 35%;
+  left: 30%;
+}
+.curta{
+  width: 60%;
+}
